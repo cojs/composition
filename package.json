@@ -1,0 +1,19 @@
+{
+  "name": "composition",
+  "description": "create compositions of generator functions",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "license": "MIT",
+  "repository": "cojs/composition",
+  "keywords": [
+    "co",
+    "compose",
+    "composition",
+    "middleware"
+  ]
+}
